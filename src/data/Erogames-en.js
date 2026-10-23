@@ -1,18 +1,62 @@
 export const EenList =[
     {
-        id: 8520943968795,
-        title: 'House of Shinobi',
-        cover: '/public/cover/houseofshinobi.webp',
+        id: 844162842123,
+        title: 'Futa Fucks Femboys FFF [v1.1.12 Premium] ',
+        cover: '/public/cover/horny.webp',
         language: 'English',
-        synops: 'A era Shinobi acabou',
-        released_at: '20/10/2026',
-        author: 'author teste',
+        synops: 'An alien Symbiote arrives on Earth not to conquer, but to experience fun, pleasure, and romance with all kinds of adventurous partners. Expect a humorous, open-minded sci-fi adventure full of chaotic charm and wild encounters!',
+        released_at: '2026-09-06',
+        author: 'Horny Capybara Games ',
         premium: false,
         download:{
-            android: 'link.test',
-            pc: 'link.tesdpc'
+            pc: 'https://pixeldrain.com/u/eAj2VQbj'
         },
-        tags: ["teste", "teste"]
+        tags: ["Adult", "Card Game", "Hentai", "Traps", "femboy"]
+    },
+    {
+        id: 900396068426,
+        title: 'Being a DIK Season 12 ',
+        cover: '/public/cover/dik.webp',
+        language: 'English',
+        synops: 'A young man from a low-income family moves away from his widowed father and his summer love to attend college at Burgmeister & Royce. Thrust into freshman life and persuaded to join the up-and-coming fraternity Delta Iota Kappa, he is exposed to a new world filled with conflict, drama, and adult themes. Every decision will shape his path and relationships.',
+        released_at: '2026-09-06',
+        author: 'DrPinkCake ',
+        premium: false,
+        download:{
+            android: 'https://pixeldrain.com/u/JnNKKZC2',
+            pc: 'https://pixeldrain.com/u/eQtaKSmF'
+        },
+        tags: ["Female domination", "Groping", "Humiliation", "Strategy", "Exhibitionism", "Milf", "Interracial"]
+    },
+    {
+        id: 969012857210,
+        title: 'MOLODOST',
+        cover: '/public/cover/molodost.webp',
+        language: 'English',
+        synops: 'You are a young man who always dreamed of becoming a police officer, but one mistake forces you to leave your hometown and start over in a new city. Who will you become? Will you make the city a better place or drag it into chaos? Will you find true love or leave a trail of broken hearts in your wake? The choice is yours.',
+        released_at: '2026-10-23',
+        author: 'keyclap',
+        premium: false,
+        download:{
+            android: 'https://pixeldrain.com/u/KjRqXWGc',
+            pc: 'https://pixeldrain.com/u/fBmyxDxR'
+        },
+        tags: ["Male Protagonist", "Big Tits", "Drinking", "3DCG", "Mini-Games", "Milf", "Animated"]
+    },
+    {
+        id: 8520943968795,
+        title: 'TAG',
+        cover: '/public/cover/tag.webp',
+        language: 'English',
+        synops: 'In a small town, a young man discovers his touch holds a mystical power, allowing him to influence minds and reveal hidden desires. But he is not the only one. A dangerous rival arrives with the exact same power, turning the town into a secret battlefield. In a deadly game where the first to touch the other wins, every choice matters. The game currently features 7 characters, dozens of outfits, dozens of quests, and numerous events that unlock as the story progresses.',
+        released_at: '2026-10-23',
+        author: 'PlayingTEG_S',
+        premium: false,
+        download:{
+            android: 'https://pixeldrain.com/u/uj8tAsGg',
+            pc: 'https://pixeldrain.com/u/Qq49FvWm'
+        },
+        tags: ["Male Protagonist", "Anal Sex", "Voyeurism", "Incest", "Mind control", "Milf", "Groping"]
     },
     {
         id: 4274014419891,
