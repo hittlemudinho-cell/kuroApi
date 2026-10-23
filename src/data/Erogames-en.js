@@ -1,5 +1,20 @@
 export const EenList =[
     {
+        id: 849162842123,
+        title: 'Our Life: Now & Forever [v1.5.14]',
+        cover: '/public/cover/ourlife.webp',
+        language: 'English',
+        synops: 'Begin your life anew in this second installment to the lovingly nostalgic “Our Life” series. Fall has settled over a quaint town high on a mountain as the story begins. But it isn’t only the leaves that are changing. You and your mother were leaving behind everything you knew before, having just moved into that well-worn house in the middle of a tight knit cul-de-sac. It’s there where a delicate paper airplane lands at your feet and leads you to unanticipated crossroads…',
+        released_at: '2026-10-21',
+        author: 'GBPatch',
+        premium: false,
+        download:{
+            android: 'https://pixeldrain.com/u/Qrg2Lv1P',
+            pc: 'https://pixeldrain.com/u/7vL5dA2A'
+        },
+        tags: ["No sexual content", " Female protagonist", " Character customization", "Multiple endings", "Yuri", "Romance"]
+    },
+    {
         id: 844162842123,
         title: 'Futa Fucks Femboys FFF [v1.1.12 Premium] ',
         cover: '/public/cover/horny.webp',
