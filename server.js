@@ -33,16 +33,33 @@ const allowedOrigins = (CORS_ORIGINS || FRONTEND_URL || "http://localhost:5173")
   .map((o) => o.trim().replace(/\/+$/, ""))
   .filter(Boolean);
 
+console.log("[cors] origens permitidas:", JSON.stringify(allowedOrigins));
+
 app.use(
   cors({
     origin(origin, callback) {
       // Sem "Origin" = chamada direta (curl, health check): não é navegador, deixa passar
       if (!origin || allowedOrigins.includes(origin)) return callback(null, true);
+      // Aparece nos logs da Vercel: mostra qual origem foi barrada e o que está configurado
+      console.warn(
+        `[cors] BLOQUEADO: origem ${JSON.stringify(origin)} não está em ${JSON.stringify(allowedOrigins)}`,
+      );
       callback(null, false); // origem não autorizada: sem cabeçalhos CORS
     },
     credentials: true,
   }),
 );
+// TEMPORÁRIO (apague depois de resolver o CORS): mostra exatamente o que o servidor
+// em produção está lendo. JSON.stringify deixa visíveis aspas, espaços e barras sobrando.
+app.get("/debug/cors", (req, res) => {
+  res.json({
+    allowedOrigins,
+    FRONTEND_URL: FRONTEND_URL ?? null,
+    CORS_ORIGINS: CORS_ORIGINS ?? null,
+    NODE_ENV: NODE_ENV ?? null,
+  });
+});
+
 app.use(express.json({ limit: "10kb" })); // limite de tamanho
 app.use(express.urlencoded({ extended: true }));
 
