@@ -1,5 +1,20 @@
 export const EenList =[
     {
+        id: 562354082305,
+        title: ' College of Mysteria [v0.15]',
+        cover: '/public/cover/cm.webp',
+        language: 'English',
+        synops: 'A story focused on Will and Cindy and the sexy situations they find themselves in as their lives grow more complicated. The game centers around Netori and sharing themes, featuring a range of encounters, side scenarios, and characters that shape how their relationships and experiences unfold over time.​',
+        released_at: ' 2026-10-24',
+        author: 'HappySteve ',
+        premium: false,
+        download:{
+            android: 'https://bzzhr.to/n6fhapt6w35w',
+            pc: 'https://bzzhr.to/cr3st5d57qee'
+        },
+        tags: ["Cheating", " Exhibitionism", " Creampie", "Swinging", "Netorare", "Group sex"]
+    },
+    {
         id: 849162842123,
         title: 'Our Life: Now & Forever [v1.5.14]',
         cover: '/public/cover/ourlife.webp',
