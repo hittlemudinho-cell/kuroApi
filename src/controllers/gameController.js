@@ -1,6 +1,12 @@
 // src/controllers/gameController.js
 import { GAMES_BY_LANG } from "../data/index.js";
 
+// As capas ficam em public/cover/ no front. No site publicado o conteúdo de "public/"
+// está na raiz (/cover/x.webp), então "/public/cover/x.webp" dá 404. Esta função aceita
+// os dois jeitos de escrever no arquivo de dados e entrega sempre o caminho certo.
+const normalizeCover = (cover) =>
+  typeof cover === "string" ? cover.replace(/^\/?public\//, "/") : cover;
+
 /**
  * Lista os jogos por idioma, aplicando a restrição de conteúdo premium
  */
@@ -19,7 +25,9 @@ export function getGamesByLanguage(req, res) {
 
   const isSubscriber = Boolean(req.session?.isSubscriber);
 
-  const sanitizedGames = games.map((game) => {
+  const sanitizedGames = games.map((original) => {
+    const game = { ...original, cover: normalizeCover(original.cover) };
+
     // Plataformas disponíveis. Vai em todos os jogos (inclusive os bloqueados),
     // para o front poder listar os premium nas páginas PC/Android sem ver o link.
     const platforms = Object.keys(game.download || {});
