@@ -1,5 +1,35 @@
 export const EenList =[
     {
+        id: 222139633727,
+        title: 'MILF Obsession [v0.5.5]',
+        cover: '/public/cover/milfs.webp',
+        language: 'English',
+        synops: 'Welcome to MILF Obsession, a spicy and hilarious visual novel where heartbreak leads to unexpected pleasures. You play as a broke, unlucky-in-love twenty-something who just started working at a newly opened coffee shop owned by Carmen — a fiery, freshly divorced Latina with a sharp tongue and curves that make time stop. It was supposed to be just another dead-end job… but soon you realize this café isn’t the only place heating up.',
+        released_at: '2026-10-25',
+        author: 'DanGames',
+        premium: false,
+        download:{
+            android: 'https://bzzhr.to/8azi3mf5szrd',
+            pc: 'https://bzzhr.to/s1n6t1e47u8c'
+        },
+        tags: ["3DCG", " MILF", " Groping", "Cosplay", "Voyeurism", "Big ass"]
+    },
+    {
+        id: 666735521076,
+        title: ' Holiday Island [v0.5.2.0]',
+        cover: '/public/cover/hi.webp',
+        language: 'English',
+        synops: 'You (the player) have just won a lottery for a holiday on a tiny, remote Pacific island...  but not just any island! It is packed from the beach to the bedroom with a buffet of the worlds most beautiful girls! (The games intro section covers all of this in loving detail!)',
+        released_at: ' 2026-10-25',
+        author: 'Darkhound1  ',
+        premium: false,
+        download:{
+            android: 'https://pixeldrain.com/u/ycDGgosC',
+            pc: 'https://bzzhr.to/tkwxnehgksqr'
+        },
+        tags: ["3DCG", " Exhibitionism", " Voyeurism", "Creampie", "Sex toys", "Footjob"]
+    },
+    {
         id: 562354082305,
         title: ' College of Mysteria [v0.15]',
         cover: '/public/cover/cm.webp',
