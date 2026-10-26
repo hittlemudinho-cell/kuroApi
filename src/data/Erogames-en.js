@@ -2,7 +2,7 @@ export const EenList =[
     {
         id: 314691729083,
         title: '36Weeks [v1.1] [PC] [Android]',
-        cover: '/src/img/cover/36week.webp',
+        cover: '/img/cover/36week.webp',
         language: 'English',
         synops: 'This game tells the story of a young man in his twenties living with his mother, brother, and sister. One day, he receives a message from an unknown number proposing a deal. The next day, a package containing a contract arrives; he foolishly signs it, binding himself to a succubus. Under the terms of this special agreement, he has 36 weeks to receive oral sex from someone he has known for at least a week. If he breaks the contract, he will die.​',
         released_at: ' 2026-10-26',
