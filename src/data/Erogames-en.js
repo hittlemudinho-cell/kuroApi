@@ -1,6 +1,20 @@
 export const EenList =[
     {
         id: 314691729083,
+        title: 'The Phone from Another World: My First Love [v1.0 + DLCs] [Plumko/WeissGarden]',
+        cover: '/public/cover/thephone.webp',
+        language: 'English',
+        synops: 'If she’s truly gone… Then who is answering the phone? Between reason and obsession, you will uncover the truth behind a call that should never have been answered. Through dialogue choices and intimate interactions, a forbidden connection slowly reveals what lies beyond the screen.​',
+        released_at: '2026-10-26',
+        author: 'Plumko',
+        premium: false,
+        download:{
+            pc: 'https://bzzhr.to/hbgoa7p5pc21'
+        },
+        tags: ["Romance", " Simulator", " Oral Sex", "Sex Toys", "Voiced"]
+    },
+    {
+        id: 314691729083,
         title: '36Weeks [v1.1] [PC] [Android]',
         cover: '/public/cover/36week.webp',
         language: 'English',
