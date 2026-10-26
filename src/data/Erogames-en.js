@@ -1,6 +1,6 @@
 export const EenList =[
     {
-        id: 314691729083,
+        id: 685105130831,
         title: 'The Phone from Another World: My First Love [v1.0 + DLCs] [Plumko/WeissGarden]',
         cover: '/public/cover/thephone.webp',
         language: 'English',
