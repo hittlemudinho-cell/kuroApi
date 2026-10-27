@@ -1,5 +1,34 @@
 export const EenList =[
     {
+        id: 662945159816,
+        title: 'Friendly Housewife [v0.6.5]',
+        cover: '/public/cover/frienhouse.webp',
+        language: 'English',
+        synops: 'Mike and Mia living on their own in apartment some where , one day neighbor just move in next door, a single mom and her stepson, Farah and Fin. in late afternoon Mia and Mike decided to say hi and it change and start things that arent suppose to forever.',
+        author: 'White foam',
+        premium: false,
+        download:{
+            android: 'https://bzzhr.to/x48t0pkhgsa1',
+            pc: 'https://bzzhr.to/gaf21t2edi7w'
+        },
+        tags: ["Ahegao", " Animated", "Big ass", "Netorare", "Exhibitionism", "Groping"]
+    },
+    {
+        id: 335147366695,
+        title: 'According to Sofia [v0.05.02] ',
+        cover: '/public/cover/actosifia.webp',
+        language: 'English',
+        synops: 'What happens when your girlfriend thinks she’s technically faithful… even when things get wildly out of hand? In According to Sofia, you’ll follow the hilarious, unexpected, and unapologetically naughty adventures of Sofia - a quirky blonde bombshell with a twisted sense of logic,  a rulebook of her own, and an innocent smile that gets her away with everything.​',
+        released_at: '2026-10-25',
+        author: 'GrimaGrima',
+        premium: false,
+        download:{
+            android: 'https://bzzhr.to/bglxar9gepue',
+            pc: 'https://bzzhr.to/9p21i8gygmd0'
+        },
+        tags: ["Milf", " Incest", "Big ass", "Swinging", "Exhibitionism", "Groping"]
+    },
+    {
         id: 685105130831,
         title: 'The Phone from Another World: My First Love [v1.0 + DLCs] [Plumko/WeissGarden]',
         cover: '/public/cover/thephone.webp',
